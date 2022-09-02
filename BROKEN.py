@@ -457,7 +457,7 @@ if Exception:
         time.sleep(3.5)
         #Numbr chnge krlyna
         os.system("xdg-open https://wa.me/+9779815683067")  
-                
+                def main_apv()
             
             def clear():
                 os.system('clear')
